@@ -1,0 +1,25 @@
+# License for Usada-VC Discord Bot
+
+Copyright (c) 2024 arika_tune
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+## Important Notices
+
+1. This software (Usada-VC Discord Bot) is a derivative work based on seed-vc by Plachtaa, which is licensed under the GNU General Public License v3.0.
+
+2. As per the requirements of the GPL, this entire project, including any modifications and additions made to create Usada-VC Discord Bot, is also released under the GNU General Public License v3.0.
+
+3. While the SEED model derived from seed-vc is not directly included in this repository, this software includes functionality to download and execute it. Users are reminded that their use of the SEED model is also subject to the terms of the GNU General Public License v3.0.
+
+4. If you distribute this software or any derivative works, you must do so under the terms of the GNU General Public License v3.0, which includes making the complete corresponding source code available.
+
+5. For the full terms of the GNU General Public License v3.0, please see the attached copy below or visit: <https://www.gnu.org/licenses/gpl-3.0.en.html>
+
+## Third-Party Libraries
+
+This project may use various third-party libraries, each of which may have its own license. Users should refer to the license terms of each library for their usage rights and restrictions.
